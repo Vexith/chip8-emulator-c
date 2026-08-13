@@ -6,14 +6,14 @@ A fast, lightweight CHIP-8 emulator built from scratch in C with Visual Studio. 
 
 ---
 
-## 📸 Demo
+## Demo (running the IBM demo .ch8 rom)
 
 ![CHIP-8 ASCII Demo](demo.gif)
 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Core Hardware Emulation:**
   - 4KB RAM with fontset loaded at `0x000`
@@ -43,7 +43,7 @@ A fast, lightweight CHIP-8 emulator built from scratch in C with Visual Studio. 
 - [ ] Migrate terminal display to a native GUI window (SDL2 or Raylib)
 ---
 
-## 🚀 How to Run
+## How to Compile
 
 1. Clone this repository:
    ```bash
