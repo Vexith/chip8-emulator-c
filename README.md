@@ -47,4 +47,4 @@ A fast, lightweight CHIP-8 emulator built from scratch in C with Visual Studio. 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Vexith/chip8-emulator-c.git](https://github.com/Vexith/chip8-emulator-c.git)
+   git clone https://github.com/Vexith/chip8-emulator-c.git
